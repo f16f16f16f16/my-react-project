@@ -57,6 +57,7 @@ function App() {
       }}
     >
       <div className="container">
+        <h1>Folky Slayer</h1>
         <Title />
         <BrowserRouter>
           <div>
